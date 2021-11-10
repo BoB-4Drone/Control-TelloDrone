@@ -6,7 +6,6 @@
 #include <netinet/ip.h>
 #include <netinet/tcp.h>
 #include <netinet/udp.h>
-#include <iostream>
 #include <cstring>
 
 static const unsigned int TBL_CRC16[] = { 
